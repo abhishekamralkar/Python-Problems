@@ -5,7 +5,7 @@
 # - Subtraction
 # / Division
 # * Multiplication
-# % Remainder
+# % Modulus
 # < Less Than
 # > Greater Than
 # <= Less Than Equal
