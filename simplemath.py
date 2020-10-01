@@ -1,6 +1,10 @@
 #!/usr/bin/python
 #Every programmin language provides some kind of way of doing numbers and math.
 #Simple Mathematics
+#Python follows the PEDMAS rule during mathematical calculations PEMDAS, which stands for parentheses, exponent, multiplication, division, addition and subtraction.
+#It details the order of operations,and also note, 
+#In Python we have three types of division, regular division('\'), floor division("\\")  and finding the remainder('%'), 
+#Using what's called modulo.
 # + Addition
 # - Subtraction
 # / Division
